@@ -1,4 +1,4 @@
-package com.harshRajpurohit.letsBrowse.adapter
+package com.snehaghoshTechIsopod.LakshyOrbit.adapter
 
 import android.app.Activity
 import android.content.Context
@@ -9,13 +9,13 @@ import androidx.core.content.res.ResourcesCompat
 import androidx.core.graphics.drawable.toDrawable
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.snackbar.Snackbar
-import com.harshRajpurohit.letsBrowse.R
-import com.harshRajpurohit.letsBrowse.activity.MainActivity
-import com.harshRajpurohit.letsBrowse.activity.changeTab
-import com.harshRajpurohit.letsBrowse.activity.checkForInternet
-import com.harshRajpurohit.letsBrowse.databinding.BookmarkViewBinding
-import com.harshRajpurohit.letsBrowse.databinding.LongBookmarkViewBinding
-import com.harshRajpurohit.letsBrowse.fragment.BrowseFragment
+import com.snehaghoshTechIsopod.LakshyOrbit.R
+import com.snehaghoshTechIsopod.LakshyOrbit.activity.MainActivity
+import com.snehaghoshTechIsopod.LakshyOrbit.activity.changeTab
+import com.snehaghoshTechIsopod.LakshyOrbit.activity.checkForInternet
+import com.snehaghoshTechIsopod.LakshyOrbit.databinding.BookmarkViewBinding
+import com.snehaghoshTechIsopod.LakshyOrbit.databinding.LongBookmarkViewBinding
+import com.snehaghoshTechIsopod.LakshyOrbit.fragment.BrowseFragment
 
 class BookmarkAdapter(private val context: Context, private val isActivity: Boolean = false) :
     RecyclerView.Adapter<BookmarkAdapter.MyHolder>() {
