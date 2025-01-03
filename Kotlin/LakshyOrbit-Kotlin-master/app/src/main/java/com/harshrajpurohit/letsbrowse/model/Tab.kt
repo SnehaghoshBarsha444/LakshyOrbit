@@ -1,4 +1,4 @@
-package com.harshRajpurohit.letsBrowse.model
+package com.snehaghoshTechIsopod.LakshyOrbit.model
 
 import androidx.fragment.app.Fragment
 
