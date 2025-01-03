@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.LetsBrowse" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <style name="Theme.LakshyOrbit" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/cool_pink</item>
         <item name="colorPrimaryVariant">@color/cool_pink</item>
