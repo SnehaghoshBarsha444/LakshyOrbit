@@ -1,4 +1,4 @@
-package com.harshRajpurohit.letsBrowse.fragment
+package com.snehaghoshTechIsopod.LakshyOrbit.fragment
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -20,10 +20,10 @@ import androidx.fragment.app.Fragment
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.imageview.ShapeableImageView
 import com.google.android.material.snackbar.Snackbar
-import com.harshRajpurohit.letsBrowse.R
-import com.harshRajpurohit.letsBrowse.activity.MainActivity
-import com.harshRajpurohit.letsBrowse.activity.changeTab
-import com.harshRajpurohit.letsBrowse.databinding.FragmentBrowseBinding
+import com.snehaghoshTechIsopod.LakshyOrbit.R
+import com.snehaghoshTechIsopod.LakshyOrbit.activity.MainActivity
+import com.snehaghoshTechIsopod.LakshyOrbit.activity.changeTab
+import com.snehaghoshTechIsopod.LakshyOrbit.databinding.FragmentBrowseBinding
 import java.io.ByteArrayOutputStream
 
 class BrowseFragment(private var urlNew: String = "https://www.google.com") : Fragment() {
