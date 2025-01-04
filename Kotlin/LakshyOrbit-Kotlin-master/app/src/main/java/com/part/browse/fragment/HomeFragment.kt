@@ -1,4 +1,4 @@
-package com.harshRajpurohit.letsBrowse.fragment
+package com.snehaghoshTechIsopod.LakshyOrbit.fragment
 
 import android.content.Intent
 import android.os.Bundle
@@ -9,13 +9,13 @@ import android.widget.SearchView
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.GridLayoutManager
 import com.google.android.material.snackbar.Snackbar
-import com.harshRajpurohit.letsBrowse.R
-import com.harshRajpurohit.letsBrowse.activity.BookmarkActivity
-import com.harshRajpurohit.letsBrowse.activity.MainActivity
-import com.harshRajpurohit.letsBrowse.activity.changeTab
-import com.harshRajpurohit.letsBrowse.activity.checkForInternet
-import com.harshRajpurohit.letsBrowse.adapter.BookmarkAdapter
-import com.harshRajpurohit.letsBrowse.databinding.FragmentHomeBinding
+import com.snehaghoshTechIsopod.LakshyOrbit.R
+import com.snehaghoshTechIsopod.LakshyOrbit.activity.BookmarkActivity
+import com.snehaghoshTechIsopod.LakshyOrbit.activity.MainActivity
+import com.snehaghoshTechIsopod.LakshyOrbit.activity.changeTab
+import com.snehaghoshTechIsopod.LakshyOrbit.activity.checkForInternet
+import com.snehaghoshTechIsopod.LakshyOrbit.adapter.BookmarkAdapter
+import com.snehaghoshTechIsopod.LakshyOrbit.databinding.FragmentHomeBinding
 
 
 class HomeFragment : Fragment() {
