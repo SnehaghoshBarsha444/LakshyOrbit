@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.harshRajpurohit.letsBrowse"
+    namespace = "com.snehaghoshTechIsopod.LakshyOrbit"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.harshRajpurohit.letsBrowse"
+        applicationId = "com.snehaghoshTechIsopod.LakshyOrbit"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
