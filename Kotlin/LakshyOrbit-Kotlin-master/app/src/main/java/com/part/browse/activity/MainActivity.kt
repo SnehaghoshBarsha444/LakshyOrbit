@@ -1,4 +1,4 @@
-package com.harshRajpurohit.letsBrowse.activity
+package com.snehaghoshTechIsopod.LakshyOrbit.activity
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -35,18 +35,18 @@ import com.google.android.material.snackbar.Snackbar
 import com.google.android.material.textview.MaterialTextView
 import com.google.gson.GsonBuilder
 import com.google.gson.reflect.TypeToken
-import com.harshRajpurohit.letsBrowse.R
-import com.harshRajpurohit.letsBrowse.activity.MainActivity.Companion.myPager
-import com.harshRajpurohit.letsBrowse.activity.MainActivity.Companion.tabsBtn
-import com.harshRajpurohit.letsBrowse.adapter.TabAdapter
-import com.harshRajpurohit.letsBrowse.databinding.ActivityMainBinding
-import com.harshRajpurohit.letsBrowse.databinding.BookmarkDialogBinding
-import com.harshRajpurohit.letsBrowse.databinding.MoreFeaturesBinding
-import com.harshRajpurohit.letsBrowse.databinding.TabsViewBinding
-import com.harshRajpurohit.letsBrowse.fragment.BrowseFragment
-import com.harshRajpurohit.letsBrowse.fragment.HomeFragment
-import com.harshRajpurohit.letsBrowse.model.Bookmark
-import com.harshRajpurohit.letsBrowse.model.Tab
+import com.snehaghoshTechIsopod.LakshyOrbit.R
+import com.snehaghoshTechIsopod.LakshyOrbit.activity.MainActivity.Companion.myPager
+import com.snehaghoshTechIsopod.LakshyOrbit.activity.MainActivity.Companion.tabsBtn
+import com.snehaghoshTechIsopod.LakshyOrbit.adapter.TabAdapter
+import com.snehaghoshTechIsopod.LakshyOrbit.databinding.ActivityMainBinding
+import com.snehaghoshTechIsopod.LakshyOrbit.databinding.BookmarkDialogBinding
+import com.snehaghoshTechIsopod.LakshyOrbit.databinding.MoreFeaturesBinding
+import com.snehaghoshTechIsopod.LakshyOrbit.databinding.TabsViewBinding
+import com.snehaghoshTechIsopod.LakshyOrbit.fragment.BrowseFragment
+import com.snehaghoshTechIsopod.LakshyOrbit.fragment.HomeFragment
+import com.snehaghoshTechIsopod.LakshyOrbit.model.Bookmark
+import com.snehaghoshTechIsopod.LakshyOrbit.model.Tab
 import java.io.ByteArrayOutputStream
 import java.net.URL
 import java.text.SimpleDateFormat
