@@ -26,5 +26,22 @@ LakshyOrbit Web Browser is a fast, secure, and lightweight web browser applicati
 ### Contributions
 Contributions are welcome! Feel free to fork the repository, submit issues, or create pull requests.
 
-### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## 📬 **Contact Information**  
+
+For inquiries or collaboration opportunities, connect via: 
+- **Email**: [Contact Me](mailto:miss.webdesigner0013@gmail.com)
+- **GitHub**: [GitHub Profile](https://github.com/SnehaghoshBarsha444)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sneha-ghosh-technical-isopod075/)
+- **Twitter**: [@IsopodTechnical](https://x.com/IsopodTechnical)  
+- **Medium**: [Medium Profile](https://medium.com/@Technical_Isopod_075)
+
+---
+
+### **License**  
+
+This project is licensed under the [MIT License](LICENSE).  
+
+---
+
+** Happy coding with [SnehaghoshBarsha444(Technical_Isopod_075)!](https://snehaghosh-technical-isopod-portfolio.vercel.app/)**
